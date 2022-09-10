@@ -27,6 +27,7 @@
 .head {
   color: #61dafb;
   font-size:72px;
+  font-family: Bigelow Rules;
 }
 
 @keyframes App-logo-spin {
